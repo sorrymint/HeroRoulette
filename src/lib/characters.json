@@ -1,0 +1,163 @@
+{
+  "vanguard": [
+    {
+      "name": "Bruce Banner (Hulk)",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png"
+    },
+    {
+      "name": "Captain America",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/bf/CaptainAmericaHughes.jpg"
+    },
+    {
+      "name": "Doctor Strange",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Doctor_Strange_Vol_4_2_Ross_Variant_Textless.jpg"
+    },
+    {
+      "name": "Emma Frost",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/02/Emma_Frost_%28Modern%29.webp"
+    },
+    {
+      "name": "Groot",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/I_am_Groot_vol_1.jpeg"
+    },
+    {
+      "name": "Magneto",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Magneto_%28Marvel_Comics_character%29.jpg"
+    },
+    {
+      "name": "Peni Parker",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/PeniParker.jpeg"
+    },
+    {
+      "name": "The Thing",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/28/Thing_Dark_Reign_Fantastic_Four.png"
+    },
+    {
+      "name": "Thor",
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Thor126.jpg"
+    },
+    {
+      "name": "Venom",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/ff/Web_of_Venom.png"
+    }
+  ],
+  "duelist": [
+    {
+      "name": "Black Panther",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_OS_Vol_1_2.png"
+    },
+    {
+      "name": "Black Widow",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Black_Widow_1.png"
+    },
+    {
+      "name": "Hawkeye",
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/99/Hawkeye_%28Clinton_Barton%29.png"
+    },
+    {
+      "name": "Hela",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/db/Hela.png"
+    },
+    {
+      "name": "Human Torch",
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c7/Human_Torch_%28Johnny_Storm%29.png"
+    },
+    {
+      "name": "Iron Fist",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/00/Iron_Fist_%28Danny_Rand%29.jpg"
+    },
+    {
+      "name": "Iron Man",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/47/Iron_Man_%28circa_2018%29.png"
+    },
+    {
+      "name": "Magik",
+      "url": "https://en.wikipedia.org/wiki/Magik#/media/File:Illyana_Rasputin_as_Magik_(2024_Design).webp"
+    },
+    {
+      "name": "Mister Fantastic",
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Reedr.jpg"
+    },
+    {
+      "name": "Moon Knight",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Marc_Spector_39.jpg"
+    },
+    {
+      "name": "Namor",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f7/NAMOR1cover-CMYKcrop.jpg"
+    },
+    {
+      "name": "Psylocke",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/73/Excalibur_%28Vol._4%29%2C_No._19_%28Textless_Variant%29.jpg"
+    },
+    {
+      "name": "Scarlet Witch",
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/73/ScarletWitch.jpg"
+    },
+    {
+      "name": "Spider-Man",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png"
+    },
+    {
+      "name": "Star-Lord",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/15/ST1.PNG"
+    },
+    {
+      "name": "Storm",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/34/Storm_%28Ororo_Munroe%29.png"
+    },
+    {
+      "name": "Squirrel Girl",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e2/Unbeatable_Squirrel_Girl.jpg"
+    },
+    {
+      "name": "The Punisher",
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Punisher_%28Frank_Castle%29.png"
+    },
+    {
+      "name": "Winter Soldier",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Sebastian_Stan_as_Bucky_Barnes.jpg"
+    },
+    {
+      "name": "Wolverine",
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Wolverine_%28James_%27Logan%27_Howlett%29.png"
+    }
+  ],
+  "strategist": [
+    {
+      "name": "Adam Warlock",
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Guardians-17.jpg"
+    },
+    {
+      "name": "Cloak & Dagger",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Cloak_and_Dagger_%28Marvel_Comics_characters%29.jpg"
+    },
+    {
+      "name": "Invisible Woman",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/Invisible_Woman.png"
+    },
+    {
+      "name": "Jeff the Land Shark",
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/04/It%27s_Jeff%21_1_%282021%29_Cover.jpg"
+    },
+    {
+      "name": "Loki",
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/ee/Various_incarnations_of_Loki_%282014%29.webp"
+    },
+    {
+      "name": "Luna Snow"
+    },
+    {
+      "name": "Mantis",
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8c/Mantismadona.jpg"
+    },
+    {
+      "name": "Rocket Raccoon",
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Rocketraccoon.png"
+    },
+    {
+      "name": "Ultron",
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Ultron2013.jpg"
+    }
+  ]
+}
